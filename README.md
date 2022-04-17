@@ -31,6 +31,7 @@ Trying learn music production these days.
 
 ## :computer:OS/FrameWorks/Programming Languages/Tools
 
+
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-02569B?style=flat-square&logo=windows&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
@@ -51,11 +52,6 @@ Trying learn music production these days.
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
-
-🔥 Streak Status
-----------------------------------------------------------------
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhijithsp)](https://git.io/streak-stats)
 
 ## ⚡ GitHub Status
 
