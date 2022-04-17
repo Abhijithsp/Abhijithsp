@@ -59,11 +59,10 @@ Trying learn music production these days.
 
 ## ⚡ GitHub Status
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijithsp&langs_count=10" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhijithsp&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a> 
+ <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijithsp&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Abhijithsp&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijithsp&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
 
