@@ -55,10 +55,9 @@ Trying learn music production these days.
 
 ## ⚡ GitHub Status
 
- <p>
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijithsp&theme=nightowl" />
-    </p>
-    <p>
-     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijithsp&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Abhijithsp&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Abhijithsp&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+</p>
 
