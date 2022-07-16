@@ -21,9 +21,10 @@ Trying learn music production these days.
 - ⚙️ I use daily: .dart,.php,.html
 - 🌱 I’m currently learning Flutter and music prodcution!!
 - 🤔 I’m looking for help with flutter animations and web development
-- :page_with_curl:Reading flutter and laravel releated news and trying new packages is a thing for me now
-- 📫 How to reach me: abhijithsp1@gmail.com
-                       abhijithsp@outlook.com 
+- :page_with_curl:Reading or wtaching flutter and laravel and music releated news or new packages or plugins and trying new packages is a thing for me now
+- 📫 How to reach me: abhijithsp@outlook.com 
+                      abhijithsp1@gmail.com
+                        
 
 - ⚡ Fun fact: If you step into the world programming we are traveling through blackhole and don't know what to expect 
 
