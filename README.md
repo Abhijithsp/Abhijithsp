@@ -16,7 +16,7 @@ I am Abhijith, currently working as Flutter developer,before that i was a larave
 Trying learn music production these days. 
 
 
-- 🔭 I’m currently working on flutter
+- 🔭 I’m currently working on flutter and laravel
 - :mortar_board: Completed Master of Computer Applications(MCA)
 - ⚙️ I use daily: .dart,.php,.html
 - 🌱 I’m currently learning Flutter and music prodcution!!
