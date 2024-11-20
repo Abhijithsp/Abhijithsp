@@ -4,7 +4,7 @@
 
 ![](https://badges.pufler.dev/years/Abhijithsp)
 ![](https://badges.pufler.dev/repos/Abhijithsp)
-![](https://badges.pufler.dev/commits/{periodicity}/Abhijithsp)
+
 
 ## 🔍 Where to find me
 [![Linkedin Badge](https://img.shields.io/badge/-Abhijithsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-sp-a4a6ab10a/)](https://www.linkedin.com/in/abhijith-sp-a4a6ab10a/)
