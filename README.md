@@ -1,5 +1,6 @@
 ## Hey  :alien:
-
+![](https://komarev.com/ghpvc/?username=Abhijithsp&color=brightgreen&style=for-the-badge)
+![](https://badges.pufler.dev/visits/Abhijithsp/Abhijithsp?color=black&logo=github&style=for-the-badge)
 
 ## 🔍 Where to find me
 [![Linkedin Badge](https://img.shields.io/badge/-Abhijithsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-sp-a4a6ab10a/)](https://www.linkedin.com/in/abhijith-sp-a4a6ab10a/)
