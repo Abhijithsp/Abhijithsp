@@ -1,11 +1,9 @@
 ## Hey  :alien:
 ![](https://komarev.com/ghpvc/?username=Abhijithsp&color=brightgreen&style=for-the-badge)
-
 ![](https://badges.pufler.dev/visits/Abhijithsp/Abhijithsp?color=black&logo=github&style=for-the-badge)
-![](https://badges.pufler.dev/years/Abhijithsp)
 
+![](https://badges.pufler.dev/years/Abhijithsp)
 ![](https://badges.pufler.dev/repos/Abhijithsp)
-![](https://badges.pufler.dev/gists/Abhijithsp)
 ![](https://badges.pufler.dev/commits/{periodicity}/Abhijithsp)
 
 ## 🔍 Where to find me
