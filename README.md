@@ -1,7 +1,7 @@
 ## Hey  :alien:
-![](https://komarev.com/ghpvc/?username=Abhijithsp&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Abhijithsp-v2&color=brightgreen&style=for-the-badge)
 
-![](https://badges.pufler.dev/visits/Abhijithsp/Abhijithsp?color=black&logo=github&style=for-the-badge)
+![](https://badges.pufler.dev/visits/Abhijithsp/Abhijithsp-v2?color=black&logo=github&style=for-the-badge)
 
 ![](https://badges.pufler.dev/years/Abhijithsp)
 ![](https://badges.pufler.dev/repos/Abhijithsp)
