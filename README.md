@@ -16,9 +16,10 @@
 😎 About me
 -------------------------------------------------------
 
-I am Abhijith, currently working as Flutter developer,before that i was a laravel developer after i get into flutter i fell in love with flutter now i am full time flutter developer. I am a Tech Enthusiast & Music lover i mean really love music especially hardance genre (hardstyle,rawstyle etc). I am always try to learn new things tech or not
-
-Trying learn music production these days. 
+🚀 Full-Stack Dev juggling Laravel & Flutter.
+🛠️ Tech Enthusiast with a "never stop learning" mindset.
+🔊 Hard Dance Junkie—Hardstyle and Rawstyle are my coding fuel.
+👨‍💻 Exploring the world, one line of code (and one kick-roll) at a time.
 
 
 - 🔭 I’m currently working on flutter and laravel
